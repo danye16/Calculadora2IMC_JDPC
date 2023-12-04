@@ -1,0 +1,40 @@
+﻿^contentPage
+{
+    background-color:gray;
+    padding: 20,0;
+}
+
+frame.titulo {
+
+    background-color:aliceblue;
+    border-radius: 2,2;
+    
+
+}
+
+#encabezado {
+    color:black;
+    font-size:35;
+    font-style: bold;
+}
+label {
+    color:tomato;
+    font-size: 20;
+}
+
+entry {
+    color:aqua;
+    font-style:bold;
+}
+
+#resultado {
+    color: aqua;
+    font-style: bold;
+    font-size: 30;
+
+}
+
+button.calcular {
+    background-color: green;
+    margin: -80,0,0,80;
+}
